@@ -1,1 +1,1 @@
-# Hospital-Management-App
+# Medico-Management-System
